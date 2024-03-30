@@ -20,7 +20,9 @@ I studied at the University of Minnesota Duluth, graduating with a Bachelors of 
 | iOS Development | Swift, SwiftUI |
 | University Experience | C, C++, Java, Javascript, SQL |
 
+---
 
+###### Please pay attention to the `README` in each repository, as a lot of these repositories are building foundational knowledge. So where the idea and code is not original, this is where credit is given
 
 
 <!--
