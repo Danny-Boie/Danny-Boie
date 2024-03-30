@@ -1,4 +1,4 @@
-# Hello! I'm Danny Boie
+# Hello! I'm Danny Boie 👨🏼‍💻
 ##### A mobile app developer based out of Minneapolis, MN. 
 ---
 
