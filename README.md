@@ -3,10 +3,12 @@
 ---
 
 **About** 
-I studied at the University of Minnesota Duluth, graduating with a Bachelors of Science in Computer Science, with a minor in Business Administration. Since taking a Co-Op position in college, I have been working ever since developing mobile applications with a focus in Android and cross platform languages. This GitHub is where I'm continuing my learning with Android and the architectures that are commonly used in my line of work, as well as iOS development. Keep reading to learn more about my proficiencies and technical experiences! 
+I studied at the University of Minnesota Duluth, graduating with a Bachelors of Science in Computer Science, with a minor in Business Administration. Since taking a Co-Op position in college, I have been working ever since developing mobile applications with a focus in Android and cross platform languages. I've worked in an Agile-Scrum environment, as well as within multi-national development teams. 
 
-- 🔭 I’m currently working on **Android Apps (Kotlin & Jetpack Compose)**
-- 🌱 I’m currently learning about **iOS App Development**
+This GitHub is where I'm continuing my learning with Android and the architectures that are commonly used in my line of work, as well as iOS development. Keep reading to learn more about my proficiencies and technical experiences! 
+
+- 🔭 I’m currently working with **Android Apps (Kotlin & Jetpack Compose)**
+- 🌱 I’m currently learning about **iOS & Android App Development**
 - 😄 Pronouns: **He/Him**
 - 🌎 Location: **Minneapolis, MN**
 
@@ -16,9 +18,13 @@ I studied at the University of Minnesota Duluth, graduating with a Bachelors of 
 | Experience | Languages |
 | :---: | :--- |
 | Cross Platform Mobile Development | C#, Xamarin.Forms |
-| Native Android Development | Kotlin, Jetpack Compose, Dagger.Hilt, Room |
+| Native Android Development | Kotlin, Jetpack Compose, Dagger.Hilt, Room, Retrofit |
 | iOS Development | Swift, SwiftUI |
 | University Experience | C, C++, Java, Javascript, SQL |
+
+**Architectures**
+* MVVM : Experience with Enterprise level applications implementing MVVM as well as personal projects utilizing this architecture.
+* CLEAN : Enterprise level experience with this Architecture style. 
 
 ---
 
